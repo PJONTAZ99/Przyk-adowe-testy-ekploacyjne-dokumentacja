@@ -1,2 +1,2 @@
-# Przyk-adowe-testy-ekploacyjne-dokumentacja
-Przykładowe testowanie strony komercyjnej nastawionej na błędy
+# Przykladowe-testy-ekploacyjne-dokumentacja
+Przykladowe testowanie strony komercyjnej nastawionej na błędy
